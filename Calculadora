@@ -1,9 +1,12 @@
 public static void public static void main(String[] args) {
 	
 
-public class Calculadora {
+public class Calculadora { 
 
-    
+    public double avada;
+
+	public doubl adad;
+
 	public double soma(double numeroA, double numeroB) {
 		return numeroA + numeroB;
 	}
